@@ -1,0 +1,6 @@
+__pycache__/
+final_proj/
+
+*.log
+.DS_Store
+.cache
