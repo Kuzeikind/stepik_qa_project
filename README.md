@@ -2,7 +2,7 @@
 
 ## Final project
 
-Purpose of this project is to test several user scenarios on the website
+Purpose of this project is to test several user on the website
 `http://selenium1py.pythonanywhere.com`. Tests include two scripts:
 + test_main_page.py
 + test_product_page.py
